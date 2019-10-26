@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/c++/Team-Model-Solution/Training Code/2019.10.26 SCUSA 2018/H.cpp
+iostream
+-
+cstdio
+-
+cmath
+-
+iomanip
+-
+vector
+-
+map
+-
+iterator
+-
+

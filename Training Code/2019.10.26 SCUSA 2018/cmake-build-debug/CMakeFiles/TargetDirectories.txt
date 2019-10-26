@@ -1,0 +1,3 @@
+C:/c++/Team-Model-Solution/Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir
+C:/c++/Team-Model-Solution/Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/c++/Team-Model-Solution/Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/rebuild_cache.dir

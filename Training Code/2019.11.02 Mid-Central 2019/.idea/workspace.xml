@@ -11,40 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8e68d57-f44c-47f2-a868-48ed636ddfda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ B.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/E.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/G.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/I.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/J.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/K.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/J3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/H_robe.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/H_robe.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/2019_10_26_SCUSA_2018.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/2019_10_26_SCUSA_2018.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/2019_10_26_SCUSA_2018.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/2019_10_26_SCUSA_2018.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/H.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/CMakeFiles/2019_10_26_SCUSA_2018.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Training Code/2019.10.26 SCUSA 2018/cmake-build-debug/Makefile" afterDir="false" />
-    </list>
+    <list default="true" id="c8e68d57-f44c-47f2-a868-48ed636ddfda" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,18 +45,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="262">
               <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ B.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-              <folding>
-                <element signature="e#40#59#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -142,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/I.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+            <state relative-caret-position="356">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -245,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572715247760</updated>
-      <workItem from="1572715249964" duration="19545000" />
+      <workItem from="1572715249964" duration="19999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19545000" />
+    <option name="totallyTimeSpent" value="19999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1721" height="935" extended-state="6" />
@@ -267,7 +222,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28144458" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28144458" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39975095" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -432,8 +387,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/I.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        <state relative-caret-position="356">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>

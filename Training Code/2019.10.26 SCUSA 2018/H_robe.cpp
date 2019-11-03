@@ -144,7 +144,7 @@ int main()
     for (int i=1; i<=n; i++)
         cin >> p[i].x >> p[i].y;
 
-    ld dau = 0, cuoi = 1e8;
+    ld dau = 0, cuoi = 3e6;
 
     do
     {
@@ -156,7 +156,7 @@ int main()
     }
     while (dau + eps < cuoi);
 
-    if (dau>=1e8)
+    if (dau>=3e6)
         cout << -1;
     else
         cout << setprecision(10) << fixed << dau << '\n';

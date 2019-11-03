@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/2019_10_26_SCUSA_2018.dir/H.cpp.obj"
+  "CMakeFiles/2019_10_26_SCUSA_2018.dir/J3.cpp.obj"
   "2019_10_26_SCUSA_2018.pdb"
   "2019_10_26_SCUSA_2018.exe"
   "2019_10_26_SCUSA_2018.exe.manifest"

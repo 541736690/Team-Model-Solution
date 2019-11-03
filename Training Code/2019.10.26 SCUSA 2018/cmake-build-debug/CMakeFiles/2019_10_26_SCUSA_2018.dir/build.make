@@ -56,27 +56,27 @@ include CMakeFiles/2019_10_26_SCUSA_2018.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/2019_10_26_SCUSA_2018.dir/flags.make
 
-CMakeFiles/2019_10_26_SCUSA_2018.dir/H.cpp.obj: CMakeFiles/2019_10_26_SCUSA_2018.dir/flags.make
-CMakeFiles/2019_10_26_SCUSA_2018.dir/H.cpp.obj: ../H.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\c++\Team-Model-Solution\Training Code\2019.10.26 SCUSA 2018\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2019_10_26_SCUSA_2018.dir/H.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\2019_10_26_SCUSA_2018.dir\H.cpp.obj -c "C:\c++\Team-Model-Solution\Training Code\2019.10.26 SCUSA 2018\H.cpp"
+CMakeFiles/2019_10_26_SCUSA_2018.dir/J3.cpp.obj: CMakeFiles/2019_10_26_SCUSA_2018.dir/flags.make
+CMakeFiles/2019_10_26_SCUSA_2018.dir/J3.cpp.obj: ../J3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\c++\Team-Model-Solution\Training Code\2019.10.26 SCUSA 2018\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2019_10_26_SCUSA_2018.dir/J3.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\2019_10_26_SCUSA_2018.dir\J3.cpp.obj -c "C:\c++\Team-Model-Solution\Training Code\2019.10.26 SCUSA 2018\J3.cpp"
 
-CMakeFiles/2019_10_26_SCUSA_2018.dir/H.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2019_10_26_SCUSA_2018.dir/H.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\c++\Team-Model-Solution\Training Code\2019.10.26 SCUSA 2018\H.cpp" > CMakeFiles\2019_10_26_SCUSA_2018.dir\H.cpp.i
+CMakeFiles/2019_10_26_SCUSA_2018.dir/J3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2019_10_26_SCUSA_2018.dir/J3.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\c++\Team-Model-Solution\Training Code\2019.10.26 SCUSA 2018\J3.cpp" > CMakeFiles\2019_10_26_SCUSA_2018.dir\J3.cpp.i
 
-CMakeFiles/2019_10_26_SCUSA_2018.dir/H.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2019_10_26_SCUSA_2018.dir/H.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\c++\Team-Model-Solution\Training Code\2019.10.26 SCUSA 2018\H.cpp" -o CMakeFiles\2019_10_26_SCUSA_2018.dir\H.cpp.s
+CMakeFiles/2019_10_26_SCUSA_2018.dir/J3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2019_10_26_SCUSA_2018.dir/J3.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\c++\Team-Model-Solution\Training Code\2019.10.26 SCUSA 2018\J3.cpp" -o CMakeFiles\2019_10_26_SCUSA_2018.dir\J3.cpp.s
 
 # Object files for target 2019_10_26_SCUSA_2018
 2019_10_26_SCUSA_2018_OBJECTS = \
-"CMakeFiles/2019_10_26_SCUSA_2018.dir/H.cpp.obj"
+"CMakeFiles/2019_10_26_SCUSA_2018.dir/J3.cpp.obj"
 
 # External object files for target 2019_10_26_SCUSA_2018
 2019_10_26_SCUSA_2018_EXTERNAL_OBJECTS =
 
-2019_10_26_SCUSA_2018.exe: CMakeFiles/2019_10_26_SCUSA_2018.dir/H.cpp.obj
+2019_10_26_SCUSA_2018.exe: CMakeFiles/2019_10_26_SCUSA_2018.dir/J3.cpp.obj
 2019_10_26_SCUSA_2018.exe: CMakeFiles/2019_10_26_SCUSA_2018.dir/build.make
 2019_10_26_SCUSA_2018.exe: CMakeFiles/2019_10_26_SCUSA_2018.dir/linklibs.rsp
 2019_10_26_SCUSA_2018.exe: CMakeFiles/2019_10_26_SCUSA_2018.dir/objects1.rsp

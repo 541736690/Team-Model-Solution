@@ -6,19 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/c++/Team-Model-Solution/Training Code/2019.10.26 SCUSA 2018/H.cpp
-iostream
--
-cstdio
--
-cmath
--
-iomanip
--
-vector
--
-map
--
-iterator
+C:/c++/Team-Model-Solution/Training Code/2019.10.26 SCUSA 2018/J3.cpp
+bits/stdc++.h
 -
 

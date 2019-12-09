@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/c++/Team-Model-Solution/Training Code/2019.12.08 Northern Eurasia Final 2019/F.cpp
+bits/stdc++.h
+-
+

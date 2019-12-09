@@ -3,4 +3,4 @@ project(2019_11_24_Asia_Shenyang_2018)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(2019_11_24_Asia_Shenyang_2018 I.cpp)
+add_executable(2019_11_24_Asia_Shenyang_2018 K.cpp)

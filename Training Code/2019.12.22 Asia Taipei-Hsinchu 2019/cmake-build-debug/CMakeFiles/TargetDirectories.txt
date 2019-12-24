@@ -1,0 +1,3 @@
+C:/c++/Team-Model-Solution/Training Code/2019.12.22 Asia Taipei-Hsinchu 2019/cmake-build-debug/CMakeFiles/2019_12_22_Asia_Taipei_Hsinchu_2019.dir
+C:/c++/Team-Model-Solution/Training Code/2019.12.22 Asia Taipei-Hsinchu 2019/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/c++/Team-Model-Solution/Training Code/2019.12.22 Asia Taipei-Hsinchu 2019/cmake-build-debug/CMakeFiles/rebuild_cache.dir

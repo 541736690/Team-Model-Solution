@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/c++/Team-Model-Solution/Training Code/2019.12.22 Asia Taipei-Hsinchu 2019/B.cpp
+bits/stdc++.h
+-
+
